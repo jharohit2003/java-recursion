@@ -1,0 +1,7 @@
+recursion
+-> base case 
+-> recurrence relation
+
+
+-> tail recursion
+->head recursion
